@@ -28,6 +28,3 @@
 **Android 24 em diante.**
 
 <br>
-
-### Autor:
- <a href="https://github.com/Arthur-Cardoso-de-Jesus"> **Arthur Cardoso de Jesus** </a> 
